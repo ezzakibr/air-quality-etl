@@ -4,8 +4,7 @@
 
 An ETL pipeline that monitors and analyzes real-time air quality and weather data across major Moroccan cities. The system leverages big data technologies to process environmental data streams and generate actionable insights about air quality patterns and their correlation with weather conditions.
 
-![Project Architecture Diagram]
-[You might want to add an architecture diagram here]
+![Project Architecture Diagram](diag.png)
 
 ## 🎯 Key Features
 
@@ -111,3 +110,7 @@ The system generates various insights including:
 - City-wise pollution patterns
 - Weather condition impacts on air quality
 - Pollution threshold violations
+
+### Air quality dashboard
+
+![Dashboard](Dashboard.jpg)
